@@ -1,0 +1,27 @@
+/* #myDiv{
+  background-color: lightgreen;
+  width: 100px;
+  height: 100px;
+} */
+
+
+/* 
+#innerDiv{
+  background-color: lightgreen;
+  width: 100px;
+  height: 100px;
+  border: 1px solid;
+}
+
+#outerDiv {
+  background-color: lightgreen;
+  width: 200px;
+  height: 200px;
+  
+} */
+
+
+
+#myCanvas{
+  border: 1px solid black;
+}
